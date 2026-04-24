@@ -1,20 +1,23 @@
 Dự kiến công việc
 Stt	Công việc	Người thực hiện
-1	Thu thập dữ liệu	Bùi Quốc Khánh
-Hà Ngọc Nam
+1	Thu thập dữ liệu	
+///Bùi Quốc Khánh
+///Hà Ngọc Nam
+
 2	Khảo sát và hiểu dữ liệu:
 Đọc và kiểm tra dữ liệu ban đầu
 Xác định kiểu dữ liệu của từng cột
 Thống kê sơ bộ (số dòng, số cột, giá trị đặc trưng)
 Nhận diện các vấn đề như dữ liệu thiếu, sai định dạng	Bùi Quốc Khánh
-Hà Ngọc Nam
+///Hà Ngọc Nam
 
 3	Làm sạch dữ liệu (Data Cleaning):
 Xử lý dữ liệu thiếu (loại bỏ hoặc thay thế)
 Loại bỏ dữ liệu trùng lặp
 Chuẩn hóa dữ liệu (ngày tháng, text, định dạng)
 Loại bỏ các giá trị bất thường (outliers)
-	Bùi Quốc Khánh
+///Bùi Quốc Khánh
+
 4	Phân tích dữ liệu (Exploratory Data Analysis - EDA):
 Phân tích cơ cấu nhân sự:
 oTheo phòng ban
@@ -29,26 +32,30 @@ oSo sánh theo chức vụ
 Phân tích trạng thái làm việc:
 oTỷ lệ nghỉ việc
 oSo sánh theo hiệu suất	
-Bùi Quốc Khánh
+///Bùi Quốc Khánh
+
 5	Trực quan hóa dữ liệu:
 Sử dụng biểu đồ:
 oBiểu đồ cột (Bar chart)
 oBiểu đồ tròn (Pie chart)
 oHistogram (phân phối lương)
-oHeatmap (tương quan)	Bùi Quốc Khánh
+oHeatmap (tương quan)	
+///Bùi Quốc Khánh
+
 6	Đánh giá và rút ra nhận xét:
 Nhận xét về hiệu suất nhân viên
 Đánh giá chính sách lương thưởng
 Xác định vấn đề tồn tại (ví dụ: nghỉ việc cao)
 So sánh giữa các phòng ban
-	
-Hà Ngọc Nam
+///Hà Ngọc Nam
+
 7	Đề xuất giải pháp:
 Đề xuất cải thiện hiệu suất làm việc
 Xây dựng chính sách lương thưởng hợp lý
 Giải pháp giữ chân nhân viên
 Tối ưu hóa chi phí nhân sự	
-Hà Ngọc Nam
+///Hà Ngọc Nam
+
 8	Xây dựng báo cáo:
 Viết báo cáo đầy đủ:
 oGiới thiệu
@@ -57,4 +64,5 @@ oMô tả dữ liệu
 oPhân tích
 oKết luận
 Chèn biểu đồ minh họa
-Trình bày rõ ràng, logic	Bùi Quốc Khánh
+Trình bày rõ ràng, logic	
+///Bùi Quốc Khánh
